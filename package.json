@@ -1,0 +1,1 @@
+{ "name": "clashx-backend", "version": "1.0.0", "private": true, "description": "Tournament Backend Server", "main": "index.js", "scripts": { "start": "node index.js" }, "engines": { "node": ">=18" }, "dependencies": { "express": "^4.21.2", "cors": "^2.8.5", "firebase-admin": "^13.0.2", "cloudinary": "^2.6.1" } }
